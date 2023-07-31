@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "insert here your API key"
 
 def get_model_response(prompt):
     responses = []
